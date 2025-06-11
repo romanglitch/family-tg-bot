@@ -85,7 +85,7 @@ cron.schedule('*/15 * * * * *', () => {
     sendMorningMessage();
 }, {
     scheduled: true,
-    timezone: "Europe/Moscow" // Укажите ваш часовой пояс
+    timezone: "Europe/Moscow"
 });
 
 // Обработчик команды /start для проверки работы бота
