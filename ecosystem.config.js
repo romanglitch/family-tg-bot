@@ -1,6 +1,6 @@
 module.exports = {
     apps: [{
-        name: 'glitchweb-family-bot',
+        name: 'Glitchweb Family Bot',
         script: 'bot.js',
         instances: 1,
         autorestart: true,
