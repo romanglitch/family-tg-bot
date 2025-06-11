@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/romanglitch/family-tg-bot/issues"
   },
-  "homepage": "https://github.com/romanglitch/family-tg-bot#readme"
+  "homepage": "https://github.com/romanglitch/family-tg-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-cron": "^4.1.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
 }
